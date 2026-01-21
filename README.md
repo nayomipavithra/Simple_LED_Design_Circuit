@@ -5,4 +5,3 @@ The LEDs turn ON one after another with a fixed delay, creating a running light 
 It is a beginner-friendly Arduino project designed to understand digital output pins,
 timing functions, and basic circuit connections.
 
-This project is suitable for students who are learning Arduino basics and embedded systems.
